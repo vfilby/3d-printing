@@ -6,4 +6,4 @@ bigger and get in the way. These are prototypes designed to ride on top of the K
 
 ## History
 
-![Round Cable Prototype](./Knurlie Cable Clamp round.png)
+![Round Cable Prototype](/Models/Knurlie%20Cable%20Clip/Knurlie%20Cable%20Clip/Knurlie%20Cable%20Clamp%20round.png)
